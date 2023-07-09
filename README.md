@@ -1,3 +1,3 @@
 # CODSOFT
 
-Note: I Created 3 sub branches of different task.
+Note: I have Created 3 sub branches for different task.
